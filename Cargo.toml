@@ -10,7 +10,7 @@ edition = "2018"
 egui = { version = "0.18" }
 glfw = "0.46.0"
 gl = "0.14"
-nalgebra-glm = "0.13"
+nalgebra-glm = "0.17.0"
 
 [dev-dependencies]
 copypasta-ext = "0.3"
